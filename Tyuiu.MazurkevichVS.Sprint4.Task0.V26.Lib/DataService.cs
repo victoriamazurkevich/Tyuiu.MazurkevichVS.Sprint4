@@ -10,7 +10,7 @@ namespace Tyuiu.MazurkevichVS.Sprint4.Task0.V26.Lib
             {
                 if (array[i] % 2 == 0)
                     s += array[i];
-            }
+            } 
             return s;
         }   
 

@@ -16,4 +16,4 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("Сумма нечётных элементов массива: ");
 Console.WriteLine(res);
-Console.ReadKey();
+Console.ReadKey(); 
